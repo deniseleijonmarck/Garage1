@@ -1,0 +1,56 @@
+body {
+    margin: 0px;
+    background-color: #fffdf7;
+    color: #010175;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tableNoSpace {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+.tdHeaderLinks {
+    vertical-align:bottom;
+    text-align:right;
+    padding-right:10px
+}
+
+    .tdHeaderLinks a {
+        text-decoration:none
+    }
+
+    .tdHeaderLinks img {
+        height:30px;
+        padding:0px 5px 0px 5px
+    }
+
+.tdPageHeader {
+    text-align:left;
+}
+
+    .tdPageHeader img {
+        height: 60px;
+        padding: 10px 10px 0px 10px;
+    }
+
+    .tdPageHeader span {
+        font-size:30px;
+    }
+
+    /*Page Colors*/
+    .colorDarkblue {
+        color: #010175;
+    }
+
+.colorMarron {
+    color: #750000;
+}
+
+.colorBeige {
+    color: #f9f6ed;
+}
+
+.colorLightBeige {
+    color: #fffdf7;
+}
